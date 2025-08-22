@@ -1,19 +1,19 @@
-# 👋 Hi, I'm Francine
+ 👋 Hi, I'm Francine
 
-## 🌱 Introduction
+ 🌱 Introduction
 I'm a beginner deisgner interested in web and mobile design. I enjoy learning by redesigning small screens and documenting what i learn.
 
-## 🎯 Goals
+ 🎯 Goals
 I'm focused on learning:
 - Currently Learning: Figma, Canva
 - Short Term: Redesign a log in or checkout flow and share the process
 - Long Term: Build a sold Portfolio and collaborate with developers
 
-## 🛠️ Skills
+ 🛠️ Skills
 - Design: Figma, Canva, Wireframing, Prototyping
 - Web basic, HTML, CSS
 
-## 📫 Contact
+ 📫 Contact
 - Email: francinefcasas@gmai.com
 
 
