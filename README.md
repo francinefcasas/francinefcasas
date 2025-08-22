@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Francine]
+# 👋 Hi, I'm Francine
 
 ## 🌱 Introduction
 I'm a beginner deisgner interested in web and mobile design. I enjoy learning by redesigning small screens and documenting what i learn.
