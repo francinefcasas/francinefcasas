@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm [Francine]
 
-<!--
-**francinefcasas/francinefcasas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Introduction
+I'm a beginner deisgner interested in web and mobile design. I enjoy learning by redesigning small screens and documenting what i learn.
 
-Here are some ideas to get you started:
+## 🎯 Goals
+I'm focused on learning:
+- Currently Learning: Figma, Canva
+- Short Term: Redesign a log in or checkout flow and share the process
+- Long Term: Build a sold Portfolio and collaborate with developers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Design: Figma, Canva, Wireframing, Prototyping
+- Web basic, HTML, CSS
+
+## 📫 Contact
+- Email: francinefcasas@gmai.com
+
+
